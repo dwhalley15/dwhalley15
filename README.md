@@ -58,7 +58,7 @@
   <tr>
     <td>.NET</td>
     <td>React</td>
-    <td>Vue.js</td>
+    <td>Vue</td>
     <td>Angular</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
     <td>Django</td>
     <td>Flask</td>
     <td>Bootstrap</td>
-    <td>Tailwind CSS</td>
+    <td>Tailwind</td>
   </tr>
 </table>
 
