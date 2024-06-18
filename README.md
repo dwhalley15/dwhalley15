@@ -58,10 +58,10 @@
     <td>Angular</td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/django.png" width="50"></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="50"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" width="50"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="50"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="50"></td>
   </tr>
   <tr>
     <td>Django</td>
