@@ -78,6 +78,28 @@
 
 ---
 
+### Content Management Systems
+
+I have hands-on experience with several popular Content Management Systems, enabling me to build and manage websites efficiently, customize themes, and extend functionalities with plugins and custom code:
+
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=dYeKCQwXgFkt&format=png&color=000000" width="50"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=63257&format=png&color=000000" width="50"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" width="50"></td>
+    <td><img src="https://img.icons8.com/fluency/48/000000/optimizely.png" width="50"></td>
+  </tr>
+  <tr>
+    <td>Umbraco</td>
+    <td>Sitecore</td>
+    <td>WordPress</td>
+    <td>Optimizely</td>
+  </tr>
+</table>
+
+
+---
+
 ### Connect with me
 
 :thumbsup: I'm always open to connecting with like-minded professionals, potential collaborators, and enthusiasts in the tech community. Feel free to reach out to me through any of the following platforms:
