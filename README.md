@@ -30,13 +30,13 @@
   <tr>
     <td><img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="50"></td>  
     <td><img src="https://img.icons8.com/color/48/000000/css3.png" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/sass.png" width="50"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=121463&format=png&color=000000" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/html-5.png" width="50"></td>
   </tr>
   <tr>
     <td>TypeScript</td>
     <td>CSS</td>
-    <td>SCSS</td>
+    <td>PHP</td>
     <td>HTML</td>
   </tr>
 </table>
