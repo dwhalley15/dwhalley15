@@ -80,7 +80,7 @@
 
 ### Content Management Systems
 
-I have hands-on experience with several popular Content Management Systems, enabling me to build and manage websites efficiently, customize themes, and extend functionalities with plugins and custom code:
+:fire: I have hands-on experience with several popular Content Management Systems, enabling me to build and manage websites efficiently, customize themes, and extend functionalities with plugins and custom code:
 
 <table>
   <tr>
