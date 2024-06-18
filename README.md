@@ -12,7 +12,7 @@
 
 ### Languages
 
-:office: I have experience working with a diverse range of programming languages that cater to various aspects of software development. From backend development to frontend scripting and styling, here are the languages I specialize in:
+:space_invader: I have experience working with a diverse range of programming languages that cater to various aspects of software development. From backend development to frontend scripting and styling, here are the languages I specialize in:
 
 <table>
   <tr>
@@ -45,6 +45,8 @@
 ---
 
 ### Frameworks
+
+:signal_strength: Leveraging the power of modern frameworks, helps to build robust and scalable applications. My proficiency includes working with both front-end and back-end technologies to deliver seamless user experiences and efficient server-side operations:
 
 <table>
   <tr>
