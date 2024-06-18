@@ -1,4 +1,4 @@
-<img src="https://next-portfolio-delta-snowy.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-image.4f178634.jpg&w=2048&q=75" alt="Image Description" width="100%" align="center"/>
+<img src="https://next-portfolio-delta-snowy.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-image.4f178634.jpg&w=2048&q=75" alt="Red light bulb" width="100%" align="center"/>
 
 # 👋 Hi, It's David
 
@@ -6,7 +6,7 @@
 
 ---
 
-💬 A hard working and high-achieving student, currently reading a Bachelor of Science Degree in Software Engineering. A growing interest and competency in web and software development. 💬
+💬 A hard working and high-achieving student, currently reading a Bachelor of Science Degree in Software Engineering. A growing interest and competency in web and software development.
 
 ---
 
@@ -79,6 +79,8 @@
 ---
 
 ### Connect with me
+
+:thumbsup: I'm always open to connecting with like-minded professionals, potential collaborators, and enthusiasts in the tech community. Feel free to reach out to me through any of the following platforms:
 
 <table>
   <tr>
