@@ -87,7 +87,7 @@ I have hands-on experience with several popular Content Management Systems, enab
     <td><img src="https://img.icons8.com/?size=100&id=dYeKCQwXgFkt&format=png&color=000000" width="50"></td>
     <td><img src="https://img.icons8.com/?size=100&id=63257&format=png&color=000000" width="50"></td>
     <td><img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" width="50"></td>
-    <td><img src="https://img.icons8.com/fluency/48/000000/optimizely.png" width="50"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/en/e/e9/Optimizely_Logo.png" width="50"></td>
   </tr>
   <tr>
     <td>Umbraco</td>
