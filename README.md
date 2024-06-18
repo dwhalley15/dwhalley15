@@ -46,7 +46,7 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/?size=160&id=1hX8jwYkynSh&format=png" width="50"></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="50"></td>
     <td><img src="https://img.icons8.com/officel/48/000000/react.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/vue-js.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"></td>
