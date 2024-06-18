@@ -26,7 +26,7 @@
     <td>JavaScript</td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="50"></td>  
+    <td><img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="50"></td>  
     <td><img src="https://img.icons8.com/color/48/000000/css3.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/sass.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/html-5.png" width="50"></td>
@@ -46,7 +46,7 @@
 
 <table>
   <tr>
-    <td><img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" width="50"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=yHPufAHQf4B9&format=png&color=000000" width="50"></td>
     <td><img src="https://img.icons8.com/officel/48/000000/react.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/vue-js.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"></td>
