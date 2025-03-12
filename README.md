@@ -2,7 +2,7 @@
 
 # 👋 Hi, It's David
 
-[:point_right: Visit My Profile :point_left:](https://next-portfolio-delta-snowy.vercel.app/)
+[:point_right: Visit My Profile :point_left:](https://ortheyus-portfolio.vercel.app/)
 
 ---
 
