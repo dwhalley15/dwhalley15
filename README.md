@@ -1,4 +1,6 @@
-<img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-image.4f178634.jpg&w=2048&q=75" alt="Red light bulb" width="100%" align="center"/>
+<a href="https://ortheyus-portfolio.vercel.app/">
+  <img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-image.4f178634.jpg&w=2048&q=75" alt="Red light bulb" width="100%" align="center"/>
+</a>
 
 # 👋 Hi, It's David
 
