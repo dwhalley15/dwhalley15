@@ -21,9 +21,21 @@
         <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="50">
       </a>
     </td>
-    <td><img src="https://img.icons8.com/color/48/000000/python.png" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/javascript.png" width="50"></td>
+    <td>
+      <a href="https://www.python.org/">
+        <img src="https://img.icons8.com/color/48/000000/python.png" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.java.com/">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>C#</td>
