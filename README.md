@@ -14,7 +14,7 @@
 
 ### Languages
 
-:space_invader: I have experience working with a diverse range of programming languages that cater to various aspects of software development. From backend development to frontend scripting and styling, here are the languages I specialize in:
+:space_invader: I have experience working with a diverse range of programming languages that cater to various aspects of software development. From backend development to frontend scripting and styling, here are the languages I specialise in:
 
 <table>
   <tr>
