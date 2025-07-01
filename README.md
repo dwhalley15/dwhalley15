@@ -44,10 +44,26 @@
     <td>JavaScript</td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="50"></td>  
-    <td><img src="https://img.icons8.com/color/48/000000/css3.png" width="50"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=121463&format=png&color=000000" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/html-5.png" width="50"></td>
+    <td>
+       <a href="https://www.typescriptlang.org/">
+        <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="50">
+       </a>
+    </td>  
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://img.icons8.com/color/48/000000/css3.png" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.php.net/">
+        <img src="https://img.icons8.com/?size=100&id=121463&format=png&color=000000" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>TypeScript</td>
