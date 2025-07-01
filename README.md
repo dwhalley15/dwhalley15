@@ -1,4 +1,4 @@
-<img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-image.4f178634.jpg&w=2048&q=75" alt="Red light bulb" width="100%" align="center"/>
+[<img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-image.4f178634.jpg&w=2048&q=75" alt="Red light bulb" width="100%" align="center"/>
 
 # 👋 Hi, It's David
 
@@ -16,7 +16,11 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="50"></td>
+    <td>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="50">
+      </a>
+    </td>
     <td><img src="https://img.icons8.com/color/48/000000/python.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50"></td>
     <td><img src="https://img.icons8.com/color/48/000000/javascript.png" width="50"></td>
@@ -118,3 +122,4 @@
 
 
 
+](url)
