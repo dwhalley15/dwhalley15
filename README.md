@@ -85,11 +85,25 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.icons8.com/?size=100&id=yHPufAHQf4B9&format=png&color=000000" width="50">
+      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=yHPufAHQf4B9&format=png&color=000000" width="50">
+      </a>
     </td>
-    <td><img src="https://img.icons8.com/officel/48/000000/react.png" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/vue-js.png" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50"></td>
+    <td>
+      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/officel/48/000000/react.png" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://angular.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/angularjs.png" width="50">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>.NET</td>
@@ -98,10 +112,26 @@
     <td>Angular</td>
   </tr>
   <tr>
-    <td><img src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000" width="50"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" width="50"></td>
-    <td><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50"></td>
-    <td><img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="50"></td>
+    <td>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=FnTmHRua3mU3&format=png&color=000000" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50">
+      </a>
+    </td>
+    <td>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="50">
+      </a>
+    </td>
   </tr>
   <tr>
     <td>Django</td>
@@ -158,6 +188,7 @@
 
 <table>
   <tr>
+    <td><a href="https://ortheyus-portfolio.vercel.app/" target="_blank"><img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-image.4f178634.jpg&w=828&q=75" width="50"/></a></td>
     <td><a href="https://www.linkedin.com/in/davidwhalleyprofile" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50"></a></td>
     <td><a href="https://www.instagram.com/ortheyus" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="50"></a></td>
     <td><a href="https://discord.com/users/212627113147105280" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="50"></a></td>
