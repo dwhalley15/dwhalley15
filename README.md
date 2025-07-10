@@ -8,7 +8,7 @@
 
 ---
 
-💬 Junior Software Developer with a First Class Honours degree in Computer Science. Passionate about creating clean, efficient, and maintainable code. I have a growing interest and strong competency in web and software development, and I’m excited to continue expanding my skills and contributing to impactful projects.
+💬 Junior Software Developer with a First Class Honours degree in Software Engineering. Passionate about creating clean, efficient, and maintainable code. I have a growing interest and strong competency in web and software development, and I’m excited to continue expanding my skills and contributing to impactful projects.
 
 ---
 
