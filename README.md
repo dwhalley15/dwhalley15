@@ -1,5 +1,5 @@
 <a href="https://ortheyus-portfolio.vercel.app/" target="_blank">
-  <img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flight-bulb.c97be08e.png&w=640&q=75" alt="Red light bulb" width="100%" align="center"/>
+  <img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flight-bulb.c97be08e.png&w=640&q=75" alt="Red light bulb" width="500" align="center"/>
 </a>
 
 # 👋 Hi, It's David
