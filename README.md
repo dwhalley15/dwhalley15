@@ -1,10 +1,10 @@
-<a href="https://ortheyus-portfolio.vercel.app/" target="_blank">
+<a href="https://portfolio.ortheyus.uk/" target="_blank">
   <img src="https://ortheyus-portfolio.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flight-bulb.c97be08e.png&w=640&q=75" alt="Red light bulb" width="500" align="center"/>
 </a>
 
 # 👋 Hi, It's David
 
-[:point_right: Visit My Profile :point_left:](https://ortheyus-portfolio.vercel.app/)
+[:point_right: Visit My Profile :point_left:](https://portfolio.ortheyus.uk/)
 
 ---
 
