@@ -12,6 +12,18 @@
 
 ---
 
+### My Projects
+
+📦 A couple of my featured projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dwhalley15&repo=medical-portfolios&theme=github_dark)](https://github.com/dwhalley15/medical-portfolios)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dwhalley15&repo=next-portfolio&theme=github_dark)](https://github.com/dwhalley15/next-portfolio)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dwhalley15&repo=applegame&theme=github_dark)](https://github.com/dwhalley15/applegame)
+
+---
+
 ### Languages
 
 :space_invader: I have experience working with a diverse range of programming languages that cater to various aspects of software development. From backend development to frontend scripting and styling, here are the languages I specialise in:
