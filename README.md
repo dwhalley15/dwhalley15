@@ -1,5 +1,5 @@
 <a href="https://portfolio.ortheyus.uk/" target="_blank">
-  <img src="https://frw6rziicw61rtm1.public.blob.vercel-storage.com/portfolio/light-bulb.png&w=640&q=75" alt="Red light bulb" width="500" align="center"/>
+  <img src="https://frw6rziicw61rtm1.public.blob.vercel-storage.com/portfolio/light-bulb.png" alt="Red light bulb" width="250" align="center"/>
 </a>
 
 # 👋 Hi, It's David
@@ -188,7 +188,7 @@
 
 <table>
   <tr>
-    <td><a href="https://portfolio.ortheyus.uk/" target="_blank"><img src="https://frw6rziicw61rtm1.public.blob.vercel-storage.com/portfolio/light-bulb.png&w=640&q=75" width="50"/></a></td>
+    <td><a href="https://portfolio.ortheyus.uk/" target="_blank"><img src="https://frw6rziicw61rtm1.public.blob.vercel-storage.com/portfolio/light-bulb.png" width="50"/></a></td>
     <td><a href="https://www.linkedin.com/in/davidwhalleyprofile" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="50"></a></td>
     <td><a href="https://www.instagram.com/ortheyus" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="50"></a></td>
     <td><a href="https://discord.com/users/212627113147105280" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="50"></a></td>
